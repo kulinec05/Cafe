@@ -1,3 +1,7 @@
+Demo of this project:
+https://kulinec05.github.io/Cafe/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
